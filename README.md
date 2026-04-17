@@ -1,2 +1,2 @@
 # kotlin-development
-создание приложений на лщедшт
+creating apps with Kotlin
